@@ -10,20 +10,5 @@ t_on  - Duration (sec)
 t_off - Duration (sec) 
 
 
-     -
-     _
-------
 
-
-
-      T_ON             T_OFF
-      
-----------------
-
-      
-
-   *************                   ****
-   *           *                   *
-   *           *                   *
-****           *********************
-
+![](https://raw.githubusercontent.com/KhimuninAA/Zenner/master/io43.gif)
